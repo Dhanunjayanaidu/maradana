@@ -17576,3 +17576,4 @@
 [2025-11-28 16:37:42] [class-ss-archive-creation-job.php:242] This task is done and there are no more tasks, time to complete the job
 [2025-11-28 16:37:42] [class-ss-archive-creation-job.php:287] Completing the job
 [2025-11-28 16:37:42] [class-ss-archive-creation-job.php:427] Status message: [done] Done! Finished in 00:02:01
+[2025-11-28 17:11:37] [class-ss-crawlers.php:74] Found 18 crawler files
